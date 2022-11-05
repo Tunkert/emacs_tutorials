@@ -1,0 +1,9 @@
+* Editing Modes
+
+Press enter after each of these commands
+
+M-x refill-mode => this keeps paragraphs neat while editing.
+M-x auto-fill-mode => auto-fill mode - formats paragraphs as you are writing them.
+M-q fill-paragraph (try this out to show ...)
+C-x u (undo)
+M-x paragraph-indent-text-mode

@@ -1,0 +1,22 @@
+* Commands to get started
+
+Ctrl => C-
+Alt / Meta => M-
+
+Find File => C-x C-f
+Find File (Autocomplete file) => C-x C-f start to type name and hit tab
+Insert file into another file => C-x i
+Saving file => C-x C-x
+Save file => C-x C-s
+Write file => C-x C-w (creates your own private version of the file)
+Find alternate file => C-x C-v
+Quit Emacs => C-x C-c
+Get help => C-h
+Describe key => C-h k (example C-h k C-x-i)
+Find function => C-h f (example C-h f find-file)
+C-x 1 => show only one window
+C-h t => Emacs tutorial
+C-h i => browse manuals
+
+
+
